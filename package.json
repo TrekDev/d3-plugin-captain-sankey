@@ -1,0 +1,29 @@
+{
+  "name": "d3-plugin-captain-sankey",
+  "version": "1.0.0",
+  "description": "d3 plugin for sankey diagrams",
+  "main": "dist/sankey.js",
+  "dependencies": {
+    "d3": "3.5.17"
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trekdev/d3-plugin-captain-sankey.git"
+  },
+  "keywords": [
+    "d3",
+    "sankey"
+  ],
+  "author": "trekdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trekdev/d3-plugin-captain-sankey/issues"
+  },
+  "homepage": "https://github.com/trekdev/d3-plugin-captain-sankey#readme"
+}
